@@ -1,8 +1,8 @@
-# swimming-workout-assistant
+# Swimming workout assistant
 No more messy whiteboard and calculation in module 60.
 Run your swimming workout smoothly with one screen that include everything.
 
-![Workout Screen](Workout Screen.png "Workout Screen")
+![Workout Screen](/Workout Screen.png "Workout Screen")
 
 
 ## Prerequisites
