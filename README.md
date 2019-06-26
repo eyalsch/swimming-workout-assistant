@@ -38,7 +38,7 @@ Sheets Columns:
 
 <img src="https://github.com/eyalsch/swimming-workout-assistant/blob/master/Google%20Sheets%20Workout.png" width="400">
 
-### Share the sheet and the your link
+### Share the sheet and your link
 
 <img src="https://github.com/eyalsch/swimming-workout-assistant/blob/master/Share%20Google%20Sheets%20Workout.png" width="300">
 
