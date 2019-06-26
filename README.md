@@ -1,11 +1,11 @@
 # swimming-workout-assistant
-No more messy whiteboard and calculation in module \60.
+No more messy whiteboard and calculation in module 60.
 Run your swimming workout smoothly with one screen that include everything.
 
 (Workout Screen.png)
 
-##Prerequisites
-###HTML+Javascript
+## Prerequisites
+### HTML+Javascript
 
 ###Python
 Graphical User Interfaces base on Tkinter.
