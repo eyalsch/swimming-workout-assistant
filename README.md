@@ -2,7 +2,7 @@
 No more messy whiteboard and calculation in module 60.
 Run your swimming workout smoothly with one screen that include everything.
 
-![Workout Screen](/Workout Screen.png "Workout Screen")
+![Workout Screen](https://github.com/eyalsch/swimming-workout-assistant/blob/master/Workout%20Screen.png "Workout Screen")
 
 
 ## Prerequisites
