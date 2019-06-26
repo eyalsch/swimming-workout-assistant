@@ -4,7 +4,7 @@ No more messy whiteboard and calculation in module 60.
 Run your swimming workout smoothly with one screen that include everything.
 
 ![Workout Screen](https://github.com/eyalsch/swimming-workout-assistant/blob/master/Workout%20Screen.png "Workout Screen")
-
+<img src="https://github.com/eyalsch/swimming-workout-assistant/blob/master/Workout%20Screen.png" width="400">
 
 ## Prerequisites
 ### HTML+Javascript
@@ -41,7 +41,7 @@ Sheets Columns:
 
 ### Share the sheet and the your link
 
-![Sharing Google Sheets Workout](Share Google Sheets Workout.png "Sharing Google Sheets Workout")
+![Sharing Google Sheets Workout](![Sharing Google Sheets Workout](Share Google Sheets Workout.png "Sharing Google Sheets Workout") "Sharing Google Sheets Workout")
 
 Minimum permission nedded is "Anyone with link can view". 
 
