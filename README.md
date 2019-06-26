@@ -1,5 +1,6 @@
 # Swimming workout assistant
 No more messy whiteboard and calculation in module 60.
+
 Run your swimming workout smoothly with one screen that include everything.
 
 ![Workout Screen](https://github.com/eyalsch/swimming-workout-assistant/blob/master/Workout%20Screen.png "Workout Screen")
@@ -11,12 +12,14 @@ Any web server
 
 ### Python
 None.
+
 Graphical User Interfaces base on Tkinter.
 Tkinter is the Python interface to the Tk GUI toolkit shipped with Python.
 
 ## Installing and Running
 ### HTML+Javascript
 Copy the files to your web server.
+
 In the javascript file, change the variable "sheetURL" to your Google Sheet link.
 
 Open `workout.html`
@@ -34,14 +37,14 @@ Sheets Columns:
 4. Time - Time of each interval. MUST be in MM:SS format.
 5. Remarks - Instruction and emphasis from the coach.
 
-![Google Sheets Workout example](Google Sheets Workout.png "Google Sheets Workout example")
+![Google Sheets Workout example](https://github.com/eyalsch/swimming-workout-assistant/blob/master/Google%20Sheets%20Workout.png "Google Sheets Workout example")
 
 ### Share the sheet and the your link
 
 ![Sharing Google Sheets Workout](Share Google Sheets Workout.png "Sharing Google Sheets Workout")
 
-
 Minimum permission nedded is "Anyone with link can view". 
+
 Use the "Copy link" button and delete the "/edit?usp=sharing"
 
 ## To Do
